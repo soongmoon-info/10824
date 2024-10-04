@@ -14,10 +14,3 @@ print (tempList1)
 
 tempList1.insert(2, 25)
 print (tempList1)
-
-#삭제
-
-tempList1.remove(50)
-print (tempList1)
-del(tempList1[2])
-print(tempList1)
